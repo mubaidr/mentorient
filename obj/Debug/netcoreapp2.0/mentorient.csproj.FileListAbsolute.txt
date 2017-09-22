@@ -8,3 +8,4 @@ C:\projects\mentorient\obj\Debug\netcoreapp2.0\mentorient.AssemblyInfoInputs.cac
 C:\projects\mentorient\obj\Debug\netcoreapp2.0\mentorient.AssemblyInfo.cs
 C:\projects\mentorient\obj\Debug\netcoreapp2.0\mentorient.dll
 C:\projects\mentorient\obj\Debug\netcoreapp2.0\mentorient.pdb
+C:\projects\mentorient\obj\Debug\netcoreapp2.0\mentorient.csprojResolveAssemblyReference.cache
