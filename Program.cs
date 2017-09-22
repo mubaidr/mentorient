@@ -24,7 +24,7 @@ namespace mentorient
                 try
                 {
                     var context = services.GetRequiredService<SchoolContext>();
-                    Dbinitializer.Initialize(context);
+                    DbInitializer.Initialize(context);
                 }
                 catch (Exception ex)
                 {
