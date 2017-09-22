@@ -1,0 +1,10 @@
+C:\projects\mentorient\bin\Debug\netcoreapp2.0\mentorient.deps.json
+C:\projects\mentorient\bin\Debug\netcoreapp2.0\mentorient.runtimeconfig.json
+C:\projects\mentorient\bin\Debug\netcoreapp2.0\mentorient.runtimeconfig.dev.json
+C:\projects\mentorient\bin\Debug\netcoreapp2.0\mentorient.dll
+C:\projects\mentorient\bin\Debug\netcoreapp2.0\mentorient.pdb
+C:\projects\mentorient\obj\Debug\netcoreapp2.0\mentorient.csproj.CoreCompileInputs.cache
+C:\projects\mentorient\obj\Debug\netcoreapp2.0\mentorient.AssemblyInfoInputs.cache
+C:\projects\mentorient\obj\Debug\netcoreapp2.0\mentorient.AssemblyInfo.cs
+C:\projects\mentorient\obj\Debug\netcoreapp2.0\mentorient.dll
+C:\projects\mentorient\obj\Debug\netcoreapp2.0\mentorient.pdb
